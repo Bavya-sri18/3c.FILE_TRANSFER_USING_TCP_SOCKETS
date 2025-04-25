@@ -58,11 +58,9 @@ while True:
 
 ## OUPUT
 CLIENT
-
 ![client3c](https://github.com/user-attachments/assets/7e2d04d9-d251-4d7a-b77a-9a1d597902a7)
 
 SERVER
-
 ![server3c](https://github.com/user-attachments/assets/c9568cc8-1304-4728-9843-27d3a28aa88e)
 
 ## RESULT
